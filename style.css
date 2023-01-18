@@ -1,0 +1,56 @@
+div.cityName{
+    border: none;
+   border-width: 30px;
+    background-color: rgb(255, 244, 86);
+    color: rgb(0, 0, 0);
+}
+div.currentWeather {
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255)
+    ;
+}
+
+div.currentWeather h2,
+div.currentWeather h3 {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+span#uv-index {
+    color: white;
+}
+
+div.fiveDay h2 {
+    font-size: 1.5rem;
+}
+
+div.fiveDay p {
+    font-size: 1.5rem;
+}
+
+div.fiveDay p.card-title {
+    font-weight: bold;
+    color: white;
+}
+
+.card {
+    background-color: rgb(255, 195, 195);
+    
+}
+
+.text-muted {
+    color: white ;
+    padding: 2em;
+    border-radius: 30px;
+   
+}
+.row{
+  font-family: sans-serif;
+  border: #000000;
+
+}
+
+.d-flex {
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 0);
+}
